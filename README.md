@@ -16,7 +16,7 @@ To run the Project Manager App locally for practice, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/MarkoT25/Project-Manager-App.git
+git clone https://github.com/br-re/Project-Manager-App.git
 Navigate into the project directory:
 
 bash
